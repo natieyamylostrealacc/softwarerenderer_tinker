@@ -1,6 +1,10 @@
 #pragma once
 
+// STINKY API, DO NOT USE
 #include <windows.h>
+// STINKY API, DO NOT USE
+
+// no regrets, microsoft.
 
 LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam)
 {
