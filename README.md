@@ -7,3 +7,5 @@ To whoever is building the next big operating system, PLEASE don't add these pro
 
 # Update
 Now that I think about it, VGA protections are kind of neccessary and useful due to modern OSes having multiple applications running at the same time. The problem is when you have a complicated API like Win32 which has you write absolute BS just to get something rendering on the screen. Of course, this is abstracted away by libraries such as GLFW, but thats hardware rendering!!!
+
+**Modern Update**: I just recently learnt VGAs are outdated and not used anymore.
